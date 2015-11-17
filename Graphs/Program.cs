@@ -10,6 +10,7 @@ namespace Graphs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, blyat'.");
         }
     }
 }
